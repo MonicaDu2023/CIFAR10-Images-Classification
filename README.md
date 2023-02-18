@@ -5,8 +5,8 @@ The CIFAR10 small photo classification problem is a standard dataset used in com
 
 The dataset is comprised of 60,000 32×32 pixel color photographs of objects from 10 classes, such as frogs, birds, cats, ships, etc.
 
-## 
-
+## Libraries
+python 3.7.1 pandas, numpy, matplotlib, seaborn, livelossplot, torch, torchvision
 ## OverView
 In this Project, I create an image classification system that can determine the image’s class, which implement Convolutional Neural Networks (CNN) classifiers using GPU-enabled Pytorch. 
 The project is divided into several steps:
